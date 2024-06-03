@@ -4,6 +4,7 @@ metadata:
   name: ui-app-people
   annotations:
     github.com/project-slug: rkurz/ui-app-people
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
