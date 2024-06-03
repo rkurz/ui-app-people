@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ui-app-people
+  annotations:
+    github.com/project-slug: rkurz/ui-app-people
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
