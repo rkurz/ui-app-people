@@ -1,7 +1,11 @@
-site_name: 'example-docs'
+site_name: 'People UI App'
+site_description: 'A UI app to help you manage the people in your organization.'
 
 nav:
   - Home: index.md
+  - Employees: employees.md
+  - Jobs: jobs.md
+  - Performance: performance.md
 
 plugins:
   - techdocs-core
