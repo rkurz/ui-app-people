@@ -1,3 +1,5 @@
+
+```plantuml
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
@@ -25,3 +27,4 @@ Rel(user, spa, "Uses", "https")
 Rel(spa, api, "Uses", "https")
 Rel_R(api, db, "Reads/Writes")
 @enduml
+```
