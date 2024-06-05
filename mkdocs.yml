@@ -6,6 +6,7 @@ nav:
   - Employees: employees.md
   - Jobs: jobs.md
   - Performance: performance.md
+  - Architecture: architecture.md
 
 plugins:
   - techdocs-core
