@@ -7,7 +7,7 @@ metadata:
     github.com/project-slug: rkurz/ui-app-people
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://www.netsuite.com
+    url: https://www.netsuite.com
     title: Netsuite
     icon: dashboard
 spec:
