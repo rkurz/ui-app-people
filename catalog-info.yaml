@@ -1,11 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-metadata:
+metadata: 
   name: ui-app-people
+  description: A single page web application that allows the user to manage the people in their organization.
   annotations:
     github.com/project-slug: rkurz/ui-app-people
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://www.netsuite.com
+    title: Netsuite
+    icon: dashboard
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: production
   owner: guests
